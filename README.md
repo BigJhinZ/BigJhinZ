@@ -10,4 +10,4 @@
 - 💻 Web skills: HTML, CSS, JavaScript, React, Node.js, Electron;
 
 ## Experiences
-- 🧥 I have experience with web development and applications back-and. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
+- 🧥 I have experience with web development and back-end applications.
