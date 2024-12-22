@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Ataíde, conhecido com BigjhinZ 🖐️
+## Olá! Eu sou o Daniel Ataíde 🖐️
 
 ## Tecnologias que eu uso no meu dia
 
