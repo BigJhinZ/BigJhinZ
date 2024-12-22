@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Daniel Ataíde 🖐️
+![BigjhinZ GitHub stats](https://github-readme-stats.vercel.app/api?username=BigJhinZ&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -11,4 +12,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![BigjhinZ GitHub stats](https://github-readme-stats.vercel.app/api?username=BigJhinZ&show_icons=true&theme=radical)
+
