@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Daniel Ataíde 🖐️
-![BigjhinZ GitHub stats](https://github-readme-stats.vercel.app/api?username=BigJhinZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigJhinZ&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia
 
